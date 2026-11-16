@@ -1,6 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: marca-gitops
-data:
-  mensaje: prueba-prune
